@@ -1,2 +1,2 @@
-# selfProject
-project for interest things
+# Angular demo
+Angular demo following Angular tutorial.
